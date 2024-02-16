@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Trevor Rowland :: _dBCooper2_
+# Trevor Rowland :: _dBCooper_2
 
 #### Business Analytics Student @ Tennessee Tech
 
