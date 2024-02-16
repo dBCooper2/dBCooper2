@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dBCooper2/dBCooper2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Trevor Rowland :: _dBCooper2_
+
+#### Business Analytics Student @ Tennessee Tech
+
+Studying Statistics and Financial Analysis using Python and Jupyter Notebooks
