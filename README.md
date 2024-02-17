@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 Studying Statistics and Financial Analysis using Python and Jupyter Notebooks
 
-- 🌱 I’m currently learning ...
+Check out some of my pinned repositories below! My most recent projects are the [Pythonic Finance](https://github.com/dBCooper2/pythonic-finance) and [Financial Modeling](https://github.com/dBCooper2/financial-modeling) repositories, and some class projects from TTU are the [UCEMC RFP and SWOT Analysis](https://github.com/dBCooper2/UCEMC-RFP-and-SWOT-Analysis) and the [ACME Inc. SQL](https://github.com/dBCooper2/ACME_INC_SQL) Repositories
