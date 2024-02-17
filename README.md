@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 #### Business Analytics Student @ Tennessee Tech
 
 Studying Statistics and Financial Analysis using Python and Jupyter Notebooks
+
+- 🌱 I’m currently learning ...
