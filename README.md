@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 # _Trevor Rowland_ :: _(dBCooper2)_
 
-### _Studying Business Intelligence and Data Analytics at TTU_
+### _Studying Business Intelligence and Data Analytics @ [Tennessee Tech University](https://www.tntech.edu/majors/business-management_business-intelligence-analytics.php)_
 
 \> Currently working an eportfolio in React and NextJS, you can find the project here @ [dBCooper.io](https://github.com/dBCooper2/dBCooper.io)
 
-\> Learning statistical analysis for finance, check out the [Pythonic Finance](https://github.com/dBCooper2/pythonic-finance) and [Financial Modeling](https://github.com/dBCooper2/financial-modeling) for examples of my work.
+\> Learning statistical analysis for finance using Python and Jupyter Notebooks, check out the [Pythonic Finance](https://github.com/dBCooper2/pythonic-finance) and [Financial Modeling](https://github.com/dBCooper2/financial-modeling) repositories for examples.
 
-\> Some class projects @ TTU that round out my skill set are the [UCEMC RFP and SWOT Analysis](https://github.com/dBCooper2/UCEMC-RFP-and-SWOT-Analysis) and the [ACME Inc. SQL](https://github.com/dBCooper2/ACME_INC_SQL) Repositories.
+\> Some class projects @ TTU that showcase technical writing and SQL are the [UCEMC RFP and SWOT Analysis](https://github.com/dBCooper2/UCEMC-RFP-and-SWOT-Analysis) and the [ACME Inc. SQL](https://github.com/dBCooper2/ACME_INC_SQL) Repositories.
