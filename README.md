@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![dbcooper](https://upload.wikimedia.org/wikipedia/commons/6/66/D._B._Cooper_jump.gif)
+![dbcooper](https://upload.wikimedia.org/wikipedia/commons/6/66/D._B._Cooper_jump.gif =250x250)
 
 # _Trevor Rowland_ :: _(dBCooper2)_
 
