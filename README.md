@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### _Studying Business Intelligence and Data Analytics @ [Tennessee Tech University](https://www.tntech.edu/majors/business-management_business-intelligence-analytics.php)_
 
-\> Currently working on an eportfolio in React and NextJS, you can find the project here @ [tr-dev](https://github.com/dBCooper2/tr-dev), old version can be found [here](https://github.com/dBCooper2/tr-dev)
+\> Currently working on an eportfolio in React and NextJS, you can find the project here @ [tr-dev](https://github.com/dBCooper2/tr-dev), old version can be found [here](https://github.com/dBCooper2/dbcooper.io)
 
 \> Learning statistical analysis for finance using Python and Jupyter Notebooks, check out the [Pythonic Finance](https://github.com/dBCooper2/pythonic-finance) and [Financial Modeling](https://github.com/dBCooper2/financial-modeling) repositories for examples.
 
