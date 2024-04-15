@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### _Studying Business Intelligence and Data Analytics @ [Tennessee Tech University](https://www.tntech.edu/majors/business-management_business-intelligence-analytics.php)_
 
-\> Currently working on an [eportfolio](https://github.com/dBCooper2/tr-portfolio) (you can make one too, template coming soon!) based on a [fork of drkosta's VSCode Portfolio](https://github.com/dBCooper2/dbcooper.io).
+\> Currently working on an [eportfolio](https://trevor-rowland.vercel.app/) (Make your own with this [template](https://github.com/dBCooper2/nextjs-portfolio-site)!) based on my last portfolio, a [fork of drkosta's VSCode Portfolio](https://github.com/dBCooper2/dbcooper.io).
 
 \> Learning statistical analysis for finance using Python and Jupyter Notebooks, check out the [Pythonic Finance](https://github.com/dBCooper2/pythonic-finance) and [Financial Modeling](https://github.com/dBCooper2/financial-modeling) repositories for examples.
 
