@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ### _Studying Business Intelligence and Data Analytics @ [Tennessee Tech University](https://www.tntech.edu/majors/business-management_business-intelligence-analytics.php)_
 
-\> Currently working on an [eportfolio](https://trevor-rowland.vercel.app/) (Make your own with this [template](https://github.com/dBCooper2/nextjs-portfolio-site)!) based on my last portfolio, a [fork of drkosta's VSCode Portfolio](https://github.com/dBCooper2/dbcooper.io).
+\> Currently working on an [eportfolio](https://trow.dev/) (Make your own with this [template](https://github.com/dBCooper2/nextjs-portfolio-site)). Based on my last portfolios, [tr-porttfolio](trevor-rowland.vercel.app) and a [fork of drkosta's VSCode Portfolio](https://github.com/dBCooper2/dbcooper.io).
 
-\> Learning statistical analysis for finance using Python and Jupyter Notebooks, check out the [Pythonic Finance](https://github.com/dBCooper2/pythonic-finance) and [Financial Modeling](https://github.com/dBCooper2/financial-modeling) repositories for examples.
+\> Learning statistical analysis for hockey and finance using Python and Jupyter Notebooks, check out the [Pythonic Finance](https://github.com/dBCooper2/pythonic-finance) and [Financial Modeling](https://github.com/dBCooper2/financial-modeling) repositories for examples.
 
 \> Some class projects @ TTU that showcase technical writing and SQL are the [UCEMC RFP and SWOT Analysis](https://github.com/dBCooper2/UCEMC-RFP-and-SWOT-Analysis) and the [ACME Inc. SQL](https://github.com/dBCooper2/ACME_INC_SQL) Repositories.
